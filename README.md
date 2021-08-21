@@ -6,7 +6,7 @@
 
 [Github Repository Link](https://github.com/Seifenan/practice-brokencode) 
 
-[Deployed URL Link](https://seifenan.github.io/c2-practice-brokencode/) 
+[Deployed URL Link](https://seifenan.github.io/practice-brokencode/) 
 
 ## Completed Screenshot
 
