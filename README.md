@@ -4,9 +4,9 @@
 
 ## Submission
 
-[Github Repository Link](https://github.com/Seifenan/practice-brokencode-p6) 
+[Github Repository Link](https://github.com/Seifenan/p6-practice-brokencode) 
 
-[Deployed URL Link](https://seifenan.github.io/practice-brokencode-p6/) 
+[Deployed URL Link](https://seifenan.github.io/p6-practice-brokencode/) 
 
 ## Completed Screenshot
 
